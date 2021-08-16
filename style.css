@@ -102,7 +102,7 @@ body{
 /*################################ SHOWCASE AREA ####################################*/ 
 
 .showcase-area{
-    background: url("img/header-image2.jpg");
+    background: url("header-image2.jpg");
     height: 50vh;
     background-size: cover;
     background-position: center;
